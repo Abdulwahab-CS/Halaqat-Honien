@@ -2,7 +2,7 @@
  Desktop application for Halaqat Honien to manage their students &amp; teachers with MySql database
 
 It's Java based program intended for Halaqat Honien management system.<br>
-It's allow eaily management to all students and teachers within the Halaqat Honien.
+It's allow easily management for all students and teachers in Halaqat Honien.
 
 <h5># My program can be used by a teacher or by manager</h5>
 
