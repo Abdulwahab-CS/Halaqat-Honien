@@ -14,8 +14,8 @@ It's allow easily management for all students and teachers in Halaqat Honien.
 - Show all students with ability to filter the all students based on their level.
 
 
-<h5># As Manager, you can :</h5><br>
-- Can do what the teacher can do exactly.<br>
+<h5># As Manager, you can :</h5>
+- Do what the teacher can do exactly.<br>
 --> plus:<br>
     - Add new teacher.<br>
     - Update teacher information.<br>
